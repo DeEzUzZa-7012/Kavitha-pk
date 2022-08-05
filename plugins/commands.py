@@ -45,8 +45,8 @@ async def start(client, message):
             InlineKeyboardButton('➕ ADD ME TO YOUR GROUPS ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 SEARCH', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🚸 CHANNEL', url='https://t.me/+dpy81hS3vqdkMDI1')
-            InlineKeyboardButton('☢️ SHARE HERE', url='https://telegram.me/share/url?url=https://t.me/+2BYjyfdJTvk3ODVl')
+            InlineKeyboardButton('🚸 GROUP', url='https://t.me/+2aWYIDf_ThAwZDBl')
+            InlineKeyboardButton('☢️ SHARE HERE', url='https://telegram.me/share/url?url=https://t.me/+2aWYIDf_ThAwZDBl')
             ],[
             InlineKeyboardButton('ℹ️ HELP', callback_data='help'),
             InlineKeyboardButton('😊 ABOUT', callback_data='about')
@@ -92,8 +92,8 @@ async def start(client, message):
             InlineKeyboardButton('➕ ADD ME TO YOUR GROUPS ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 SEARCH', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🚸CHANNEL', url='https://t.me/+dpy81hS3vqdkMDI1')
-            InlineKeyboardButton('☢️ SHARE HERE', url='https://telegram.me/share/url?url=https://t.me/+2BYjyfdJTvk3ODVl')
+            InlineKeyboardButton('🚸 GROUP', url='https://t.me/+2aWYIDf_ThAwZDBl')
+            InlineKeyboardButton('☢️ SHARE HERE', url='https://telegram.me/share/url?url=https://t.me/+2aWYIDf_ThAwZDBl')
             ],[
             InlineKeyboardButton('ℹ️ HELP', callback_data='help'),
             InlineKeyboardButton('😊 ABOUT', callback_data='about')
